@@ -169,4 +169,4 @@ UI screenshots saved to: ./test-screenshots
 4. **Code Cleanliness**: No build artifacts, temporary logs, or unnecessary clutter were included in the codebase.
 
 Thank you for reviewing my submission!  
-— **Mohit Jaiswal** (4th Year B.Tech)
+
